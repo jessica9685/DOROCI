@@ -31,7 +31,6 @@ Codename:	buster
   * tensorboard-plugin-wit==1.7.0
   * tensorflow==2.2.0
   * tensorflow-estimator==1.14.0
-  * h5py==2.10.0
 
 
 
