@@ -1,9 +1,9 @@
 # **Raspberry Pi 3 B+**
 
-Distributor ID:	Raspbian
-Description:	Raspbian GNU/Linux 10 (buster)
-Release:	10
-Codename:	buster
+Distributor ID:	Raspbian  
+Description:	Raspbian GNU/Linux 10 (buster)  
+Release:	10  
+Codename:	buster  
 
 
 
