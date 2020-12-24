@@ -5,7 +5,7 @@
 ### 비명소리 인식 모델
 
 * preprocessing
-  * 학습데이터(wav)를 mel-spectrogram으로 변환
+  * 학습데이터(wav)를 Mel-Spectrogram으로 변환
     * `wav_to_mel.ipynb`
     * `wav_to_mel.py`
     * 학습데이터: https://drive.google.com/drive/folders/1iWdshc6dJvUfGbl5_NXfNBAEkhmPl0Zp?usp=sharing
