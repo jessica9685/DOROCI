@@ -9,9 +9,9 @@ Codename:	buster
 
 # Requirements
 
-### Python 3.6 (pip3 install)
+## Python 3.6 (pip3 install)
 
-#### Google SpeechRecognition API
+### Google SpeechRecognition API
 
 * 구조요청 음성 인식
   * google-auth==1.20.1
@@ -21,7 +21,7 @@ Codename:	buster
 
 
 
-#### Keras & Tensorflow
+### Keras & Tensorflow
 
 * 비명소리 인식 모델을 불러오고, 모델을 통해 비명소리 여부를 인식
   * Keras==2.4.3
@@ -35,7 +35,7 @@ Codename:	buster
 
 
 
-#### Librosa
+### Librosa
 
 * 녹음된 음성을 Mel-Spectrogram으로 변환 후 저장
   * librosa==0.8.0
@@ -44,7 +44,7 @@ Codename:	buster
 
 
 
-#### Other Package & Library
+### Other Package & Library
 
 * GPS 모듈
   * pynmea2==1.15.0
@@ -64,10 +64,10 @@ Codename:	buster
 
 
 
-### Raspbian Package (apt-get install)
+## Raspbian Package (apt-get install)
 
 * Librosa가 의존하는 패키지
-  * cmake version - 3.18.1
+  * cmake - 3.18.1
   * llvm - 10.0.1
 
 
