@@ -5,7 +5,7 @@
 학습데이터를 MFCC로 변환하여 CNN으로 학습
 
 * `CNN_MFCC.ipynb`
-* `CNN_MFCC.py`
+* `CNN_MFCC.py`  
 
 
 
@@ -25,7 +25,7 @@
 
 * 모델 검증용 코드
   * `predict_test.ipynb`
-  * `predict_test.py`
+  * `predict_test.py`  
 
 
 
