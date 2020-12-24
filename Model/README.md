@@ -21,7 +21,7 @@
 * 비명소리 인식 모델
   * `CNN_Scream_or_Not.ipynb`
   * `CNN_Scream_or_Not.py`
-  * 모델 파일: [init2]cnn_scream_model.h5
+  * 모델 파일: `[init2]cnn_scream_model.h5`
 
 * 모델 검증용 코드
   * `predict_test.ipynb`
