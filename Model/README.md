@@ -31,7 +31,7 @@
 
 ### preprocessing
 
-* 학습데이터(wav)를 mel-spectrogram으로 변환
+* 학습데이터(wav)를 Mel-Spectrogram으로 변환
   * `wav_to_mel.ipynb`
   * `wav_to_mel.py`
 
