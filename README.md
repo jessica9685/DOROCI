@@ -2,7 +2,7 @@
 
 ## Model
 
-### 비명소리 인식 모델 구현
+### 비명소리 인식 모델
 
 * preprocessing
   * 학습데이터(wav)를 mel-spectrogram으로 변환
