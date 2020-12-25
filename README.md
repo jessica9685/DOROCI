@@ -43,8 +43,7 @@
 
 
 
-
-[Web]: https://github.com/Yejin6911/GraduationProject
+## Web
 
 라즈베리파이에서 구조요청 음성이나 비명소리를 인식하면 "도로시" 웹서버로 결과 전송
 
